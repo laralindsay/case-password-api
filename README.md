@@ -71,7 +71,7 @@ ROLE_USER - Standard user role for logged-in users.
 ```
 
 ## Database
-The project utilizes H2 Database Engine(https://mvnrepository.com/artifact/com.h2database/h2) as the database. 
+The project utilizes H2 Database Engine (https://mvnrepository.com/artifact/com.h2database/h2) as the database. 
 
 
 
