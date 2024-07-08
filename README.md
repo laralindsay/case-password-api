@@ -7,7 +7,7 @@ This project is an API built using **Java, Java Spring, H2 Database Engine as th
 
 This API validates the password according to the requirements and logs the user into a frontend such as the repository: https://github.com/laralindsay/case-password-front.git.Ï
 
-## Table of Contents
+## Flow and Upcoming Changes
 
 ![Case validação senha clientes PF e PJ](https://github.com/laralindsay/case-password-api/assets/48735715/053c8eda-d314-4190-bb3e-0e806571113d)
 
